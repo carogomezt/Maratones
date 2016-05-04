@@ -15,7 +15,6 @@ int main() {
       cout<<"Intervalo (50,75]"<<endl;
     if((a>75.0) && (a<=100.0))
       cout<<"Intervalo (75,100]"<<endl;
-
   }
   return 0;
 }
